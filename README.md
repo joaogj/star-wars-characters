@@ -4,7 +4,6 @@ Projeto desenvolvido para teste de conhecimento da equipe Descomplica.
 
 ## Tecnologias e metodologias utilizadas
   * React.JS
-  * Webpack (create-react-app)
   * Emotion (SASS in JS)
   
 ## Passo a passo para execução do projeto
